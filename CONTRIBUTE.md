@@ -27,7 +27,7 @@ A contribution to heatmap.js is not a plugin. If you want to contribute a plugin
 
 2. Install - heatmap.js uses NodeJS. Run the following commands in the root of your heatmap.js files to install dependencies:
 
-`   npm install`
+- `   npm install`
 
 3. Create a new feature branch
 
@@ -43,3 +43,19 @@ A contribution to heatmap.js is not a plugin. If you want to contribute a plugin
 7. Add an example/tests
 8. Create pull request
 
+## Reporting Bugs
+
+Report bugs on the project's issues page. Please search the preexisting issues for any similar cases. If a similar case exists, prlease add your bugs as comments to that issue.
+
+## Testing
+
+You can run tests from the command line with the following command:
+-'npm test'
+
+## Documentation
+
+Documentation is currently located [here](https://www.patrick-wied.at/static/heatmapjs/?utm_source=gh). If you'd like to add to the documentation, please leave your contribution as an issue at [https://github.com/pa7/heatmap.js/issues]('https://github.com/pa7/heatmap.js/issues).
+
+## Code of Conduct
+
+heatmap.js uses the Code of Conduct from [Contributor Covenant]('https://github.com/pa7/heatmap.js/issues'). This is one of the more widely used Code of Conducts that is specifically written to be reusable for FOSS projects. Please follow the code :)
