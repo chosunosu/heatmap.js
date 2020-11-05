@@ -2,7 +2,7 @@
 
 1. [Prerequisites](#prerequisites)
 2. [Coding Style](#coding-style)
-3. [Contributing to heatmap.js](#contributing-to-heatmap.js)
+3. [Contributing](#contributing)
 4. [Reporting Bugs](#reporting-bugs)
 5. [Testing](#testing)
 6. [Documentation](#documentation)
@@ -16,32 +16,30 @@
 
 ## Coding Style
 
-- Tabs or Spaces?
-  Spaces! 2 spaces.
+- Tabs or Spaces? Spaces! 2 spaces.
+- You should follow the style and conventions of the prexisting codebase. 
 
-## Contributing to heatmap.js
+## Contributing
 
-A contribution to heatmap.js is not a plugin. If you want to contribute a plugin a similar workflow applies but you don't have to run the watcher (because it won't go into the build).
+A contribution to heatmap.js is not a plugin. If you want to contribute a plugin a similar workflow applies but you don't have to run the watcher (because it won't go into the build). You can also contribute to heatmap.js by [helping others on Stack Overflow](http://stackoverflow.com/questions/ask?tags=heatmap.js). Finally, spread the word about heatmap.js with your friends!
 
-### Checkout repository
+1. Checkout repository
 
-### Install
+2. Install - heatmap.js uses NodeJS. Run the following commands in the root of your heatmap.js files to install dependencies:
 
-`npm install`
+`   npm install`
 
-### Create a new feature branch
+3. Create a new feature branch
 
-### Add new file to watcher
+4. Add new file to watcher
 
-If you're introducing a new file you'll have to add it to the `package.json` 's buildFiles
+- If you're introducing a new file you'll have to add it to the [`package.json`](http://stackoverflow.com/questions/ask?tags=heatmap.js)'s buildFiles
 
-### Run watcher
+5. Run watcher
 
-`grunt`
+- `   grunt`
 
-### Add your code
-
-### Add an example/tests
-
-### Create pull request
+6. Add your code
+7. Add an example/tests
+8. Create pull request
 
