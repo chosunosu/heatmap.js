@@ -59,4 +59,6 @@ Documentation is currently located [here](https://www.patrick-wied.at/static/hea
 
 ## Code of Conduct
 
+The Code of Conduct can be found [here](https://github.com/chosunosu/heatmap.js/blob/chosunosu-patch-1/code_of_conduct.md).
+
 heatmap.js uses the Code of Conduct from [Contributor Covenant]('https://github.com/pa7/heatmap.js/issues'). This is one of the more widely used Code of Conducts that is specifically written to be reusable for FOSS projects. Please follow the code :)
