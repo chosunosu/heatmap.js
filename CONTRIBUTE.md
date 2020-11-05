@@ -45,16 +45,17 @@ A contribution to heatmap.js is not a plugin. If you want to contribute a plugin
 
 ## Reporting Bugs
 
-Report bugs on the project's issues page. Please search the preexisting issues for any similar cases. If a similar case exists, prlease add your bugs as comments to that issue.
+Report bugs on the project's issues page. Please search the preexisting issues for any similar cases. If a similar case exists, please add your bugs as comments to that issue.
 
 ## Testing
 
 You can run tests from the command line with the following command:
--'npm test'
+
+-`npm test`
 
 ## Documentation
 
-Documentation is currently located [here](https://www.patrick-wied.at/static/heatmapjs/?utm_source=gh). If you'd like to add to the documentation, please leave your contribution as an issue at [https://github.com/pa7/heatmap.js/issues]('https://github.com/pa7/heatmap.js/issues).
+Documentation is currently located [here](https://www.patrick-wied.at/static/heatmapjs/?utm_source=gh). If you'd like to add to the documentation, please leave your contribution as an issue at [https://github.com/pa7/heatmap.js/issues](https://github.com/pa7/heatmap.js/issues).
 
 ## Code of Conduct
 
